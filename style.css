@@ -1,0 +1,14 @@
+.logo{
+    width: 60px;
+    border-radius: 15%;
+}
+.card-sizing{
+    height: 600px;
+}
+#search-numbers,#empty-value{
+    /* display: none; */
+    border-radius: 5px;
+}
+#spinner{
+    display:none;
+}
