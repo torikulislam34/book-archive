@@ -11,7 +11,6 @@ const loadData = () =>{
     const searchText = searchInput.value;
     if(searchText === ''){
         errordiv.innerText = 'search field the empty!!!';
-        return ;
     }
     // clear input text
     searchInput.value = '';
